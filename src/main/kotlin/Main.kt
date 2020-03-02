@@ -4,12 +4,12 @@ import kotlin.concurrent.thread
 
 fun main() {
 
-    //initialCreate()
-    //multipleSubscriberExampleOne()
-    //multipleSubscriberExampleTwo()
-    //printAllNaturalNumbers()
-    //printNaturalNumbersTillHundred()
-    //printNaturalNumbersWithTimer()
+    initialCreate()
+    multipleSubscriberExampleOne()
+    multipleSubscriberExampleTwo()
+    printAllNaturalNumbers()
+    printNaturalNumbersTillHundred()
+    printNaturalNumbersWithTimer()
 }
 
 fun initialCreate() {
