@@ -15,6 +15,11 @@ fun main() {
     printAllNaturalNumbers()
     printNaturalNumbersTillHundred()
     printNaturalNumbersWithTimer()
+    mapFilterExample()
+    repeatFirstEightAlphabetsEightTimes()
+    zipExample()
+    scanExample()
+    reduceExample()
 }
 
 fun initialCreate() {
